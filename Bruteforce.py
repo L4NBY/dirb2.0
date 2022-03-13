@@ -1,3 +1,4 @@
+
 import requests
 with open('lista.txt', 'r') as kkk:
     diretorio = kkk.readlines()
